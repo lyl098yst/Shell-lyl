@@ -1,0 +1,5 @@
+ls -l 
+ls -l |head 
+ls -l | head 
+ls -l | head  -5
+ls -l | head  -5 | wc
